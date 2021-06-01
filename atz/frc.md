@@ -18,4 +18,4 @@ It adds more recently released motors and some minor improvements, but must nota
 ### CAD resources
 [Useful Featurescripts (Shafts, chains, spacers, fillet edges)](https://cad.onshape.com/documents/95c00401c440b44ad8799ef5/w/1f1ebce01a3b8eb6fa102975/e/d98893cfa1b6e4bd9d17ebdc)
 
-[Summer 2019 CADathon robot](https://cad.onshape.com/documents/851b2891fc15d9a6562a6d90/w/4b6fcba25f6e5d19fb75bf8c/e/34ff751577fa74de544b7fb4)
+[MKCad App](https://appstore.onshape.com/apps/Manufacturers%20Models/2ZT7X5D646R3LM3ZND7LGBTYRVM4SVH6CDDGM6I=/description)
