@@ -11,6 +11,5 @@ See the [AVR code here](https://github.com/juliaschatz/puma-attiny) and [EAGLE s
 ![Puma layout](/assets/media/puma_board.PNG)
 
 ### Tower crane control systems research
-I'm currently working on my undergrad thesis about passivity-based control of a tower crane.
-At the moment I'm working on simulating the system and the controller math.
+I recently finished my undergrad thesis about a novel passivity-based control law for 3D tower cranes. You can read it [here.](/Julia_Schatz_Undergrad_Thesis.pdf)
 ![Picture of tower crane simulation](/assets/media/towercrane.png)
