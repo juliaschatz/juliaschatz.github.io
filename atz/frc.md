@@ -1,7 +1,9 @@
 ## FRC Resources
 
+This is a collection of some resources I've made for the FIRST Robotics Competition.
+
 ### JuliaDesignCalc
-This is a spreadsheet design calculator I made based on JVN's excellent calculator. 
+This is a spreadsheet design calculator I made based on JVN's calculator. 
 It adds more recently released motors and some minor improvements, but must notably features a hooded flywheel design calculator.
 
 [Chief Delphi thread](https://www.chiefdelphi.com/t/flywheel-calculator/372836)
